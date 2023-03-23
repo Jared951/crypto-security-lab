@@ -1,0 +1,14 @@
+“I love cryptography!” +5 -> "N qtaj hwduytlwfumd!"
+
+
+Part 3:
+
+1. One major cybersecurity attack was on June 2021 with LinkedIn. 
+   
+2. This breach impacted more than 90% of the userbase. 
+   Email addresses, phone numbers, geolocation records, and other social media details were leaked.
+   This information was leaked to then be sold on the darkweb for bitcoin
+
+3. The hacker was able to breach LinkedIn's data by exploting its API and data scraping their users
+
+4. LinkedIn set up measures to prevent automatic data scraping
